@@ -6,11 +6,9 @@ All passwords are protected with cryptographically secure hash function.
 
 ## Installation
 
-## Usage
+APK is located under the installation folder! 
 
 
-
-## License
 
 
 
